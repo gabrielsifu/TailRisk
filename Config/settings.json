@@ -1,0 +1,17 @@
+{
+  "DataEngineer": {
+    "execute": false,
+    "quantile_threshold": 0.01,
+    "delay_x": 2,
+    "first_test_year": 10
+  },
+  "DataScientist": {
+     "execute": false
+  },
+  "MLOps": {
+    "execute": false
+  },
+  "Evaluator": {
+    "execute": true
+  }
+}
